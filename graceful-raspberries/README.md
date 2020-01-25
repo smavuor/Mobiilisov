@@ -1,3 +1,9 @@
+
+Yksinkertainen muistiinpanosovellus mobiililaitteelle.
+
+
+
+
 # Sample Snack app
 
 Welcome to Expo!
